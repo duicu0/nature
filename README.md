@@ -2,6 +2,7 @@
 
 The ocean is a huge body of saltwater that covers about 71 percent of the Earth’s surface. The planet has one global ocean, though oceanographers and the nations of the world have divided it into distinct geographic regions: the Pacific, Atlantic, Indian, and Arctic oceans. In recent years, some oceanographers have determined that the seas around Antarctica deserve their own designation: the Southern Ocean.
 ![l](https://duicu0.github.io/nature/Ocean-Blue.jpg)
+
 # Ocean Waves
 Branching
 
@@ -13,10 +14,12 @@ An estimated 97 percent of the world’s water is found in the ocean. Because of
 
 Although there is much more to learn, oceanographers have already made some amazing discoveries. For example, we know that the ocean contains towering mountain ranges and deep canyons, known as trenches, just like those on land. The peak of the world’s tallest mountain—Mount Everest in the Himalayas, measuring 8.84 kilometers (5.49 miles) high—would not even break the surface of the water if it was placed in the Pacific Ocean’s Mariana Trench or Philippine Trench, two of the deepest parts of the ocean.
 ![l](https://duicu0.github.io/nature/Ocean-Waves.jpg)
+
 On the other hand, the Atlantic Ocean is relatively shallow because large parts of its seafloor are made up of continental shelves—parts of the continents that extend far out into the ocean. The average depth of the entire ocean is 3,720 meters (12,200 feet).
 
 It is unknown how many different species call the ocean their home. With many marine ecosystems suffering from rising sea temperatures, pollution, and other problems, some oceanographers believe the number of species is dropping. Still, there may be many positive surprises awaiting oceanographers in the years ahead. It could be that more than 90 percent of the ocean’s species are still undiscovered, with some scientists estimating that there are anywhere between a few hundred thousand to a few million more to be discovered. Currently, scientists know of around 226,000 ocean species. Branching
 ![l](https://duicu0.github.io/nature/bnfnfn.jpg)
+
 Learning more about the seafloor and the rest of the ocean is the passion of National Geographic Explorer Marcello Calisti. He is a biorobotics expert who is developing an undersea exploration vehicle that uses “legged locomotion,” inspired by the way an octopus moves under water. His long-range goal is to design robots that can explore the depths that are difficult for humans to reach.
 
 Since the ocean is so vast, there is plenty for future oceanographers from all corners of the globe to explore and discover.
