@@ -17,4 +17,8 @@ Although there is much more to learn, oceanographers have already made some amaz
 On the other hand, the Atlantic Ocean is relatively shallow because large parts of its seafloor are made up of continental shelves—parts of the continents that extend far out into the ocean. The average depth of the entire ocean is 3,720 meters (12,200 feet).
 
 It is unknown how many different species call the ocean their home. With many marine ecosystems suffering from rising sea temperatures, pollution, and other problems, some oceanographers believe the number of species is dropping. Still, there may be many positive surprises awaiting oceanographers in the years ahead. It could be that more than 90 percent of the ocean’s species are still undiscovered, with some scientists estimating that there are anywhere between a few hundred thousand to a few million more to be discovered. Currently, scientists know of around 226,000 ocean species. 
-![Branching]
+![Branching](bnfnfn.jpg)
+
+Learning more about the seafloor and the rest of the ocean is the passion of National Geographic Explorer Marcello Calisti. He is a biorobotics expert who is developing an undersea exploration vehicle that uses “legged locomotion,” inspired by the way an octopus moves under water. His long-range goal is to design robots that can explore the depths that are difficult for humans to reach.
+
+Since the ocean is so vast, there is plenty for future oceanographers from all corners of the globe to explore and discover.
