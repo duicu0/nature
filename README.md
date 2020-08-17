@@ -13,7 +13,7 @@ The ocean is a huge body of saltwater that covers about 71 percent of the Earth�
 An estimated 97 percent of the world’s water is found in the ocean. Because of this, the ocean has considerable impact on weather, temperature, and the food supply of humans and other organisms. Despite its size and impact on the lives of every organism on Earth, the ocean remains a mystery. More than 80 percent of the ocean has never been mapped, explored, or even seen by humans. A far greater percentage of the surfaces of the moon and the planet Mars have been mapped and studied than our own ocean floor has.
 
 Although there is much more to learn, oceanographers have already made some amazing discoveries. For example, we know that the ocean contains towering mountain ranges and deep canyons, known as trenches, just like those on land. The peak of the world’s tallest mountain—Mount Everest in the Himalayas, measuring 8.84 kilometers (5.49 miles) high—would not even break the surface of the water if it was placed in the Pacific Ocean’s Mariana Trench or Philippine Trench, two of the deepest parts of the ocean.
-![l](https://content.presspage.com/uploads/2379/1920_ocean-sunset-195865.jpg?10000)
+![l](https://static.bangkokpost.com/media/content/20200114/c1_3487569.jpg)
 
 On the other hand, the Atlantic Ocean is relatively shallow because large parts of its seafloor are made up of continental shelves—parts of the continents that extend far out into the ocean. The average depth of the entire ocean is 3,720 meters (12,200 feet).
 
